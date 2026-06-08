@@ -1,0 +1,6 @@
+{
+  "name": "NovaTask",
+  "description": "Gestor seguro de tareas NovaTask con persistencia local en Room, control de seguridad contra fuerza bruta, recordatorios y sincronización en la nube.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
